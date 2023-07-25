@@ -17,17 +17,13 @@ AirHunt is a powerful wireless network hacking toolkit that enables you to perfo
 git clone https://github.com/Debajyoti0-0/AirHunt.git
 ```
 
-* Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Python libraries requirements.
-
-```bash
-sudo apt install python3-pip -y
-```
-
 * Navigate to the downloaded directory:
+
 ```bash
 cd AirHunt
 chmod +x AirHunt.py setup.sh
 ```
+
 * Run the setup script to install the required tools and set up the AirHunt:
 
 ```bash
