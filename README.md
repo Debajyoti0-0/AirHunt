@@ -78,6 +78,31 @@ python3 AirHunt.py
 
 Contributions are welcome and encouraged. If you find any issues or have ideas for enhancements, please feel free to open an issue or submit a pull request.
 
+## 🔗 References
+
+```
+https://github.com/v1s1t0r1sh3r3/airgeddon
+https://github.com/FluxionNetwork/fluxion
+https://github.com/P0cL4bs/wifipumpkin3
+https://github.com/s0lst1c3/eaphammer
+https://github.com/derv82/wifite2
+https://github.com/aircrack-ng/mdk4
+https://github.com/aircrack-ng/aircrack-ng
+https://github.com/wifiphisher/wifiphisher
+https://github.com/ZerBea/hcxtools
+https://github.com/ZerBea/hcxdumptool
+https://github.com/Tylous/SniffAir
+https://github.com/koutto/pi-pwnbox-rogueap
+https://github.com/koutto/pi-pwnbox-rogueap/wiki/01.-WiFi-Basics
+```
+
+## ⚠️ Disclaimer
+
+Creator isn't in charge of any and has no responsibility for any kind of:
+
+- Illegal use of the project.
+- Legal infringement by third parties and users.
+- Malicious acts, capable of causing damage to third parties, promoted by the user through this software.
 
 
 ## 🔑 License:
